@@ -1,0 +1,5 @@
+{
+  "name": "MedResearch AI Dashboard",
+  "description": "Research-grade medical analytics dashboard comparing local hospital data with global aggregated models to detect bias and provide high-confidence disease predictions.",
+  "requestFramePermissions": []
+}
